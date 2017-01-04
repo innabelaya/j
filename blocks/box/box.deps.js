@@ -1,9 +1,5 @@
 ({
-    mustDeps: [
-        {
-            block: 'i-bem',
-            elem: 'dom',
-            mods: { init: 'auto' }
-        }
+    mustDeps : [
+        'i-bem-dom',
     ]
 })
